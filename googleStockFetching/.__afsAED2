@@ -1,0 +1,9 @@
+<?php
+  elseif($numberSharesToSell >= $stockTotalNumShares){
+    echo "You cannot sell more shares than you own!";
+  }
+  
+  else{
+    echo "else";
+    }
+?>
