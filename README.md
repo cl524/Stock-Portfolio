@@ -1,7 +1,4 @@
 # Stock-Portfolio
-Demo Username: bob
-Demo Password: bob
-URL: https://web.njit.edu/~ajw38/
 This project is a simulated online stock portfolio management system. Users can deposit
 money and use that money to purchase stocks. Users can also withdraw money and check their
 balance. The money deposited is kept separate from the actual stock portfolio, and therefore
